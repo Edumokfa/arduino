@@ -19,8 +19,8 @@ String teste;
 
 ///
 
-#define NAME "LoginDoWifi"
-#define PASS "SenhaDoWifi"
+#define NAME "LoginWifi"
+#define PASS "PasswordWifi"
 
 const char* host = "192.168.0.100";
 
